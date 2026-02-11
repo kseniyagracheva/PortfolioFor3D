@@ -10,7 +10,7 @@
 
 ----
 
-В папке Location Unity представлен проект в Unity с собранной локацией:
+Ниже представлена созданная вручную и собранная с нуля локация для проекта Unity:
 
 <img width="1536" height="677" alt="image" src="https://github.com/user-attachments/assets/906f4235-a970-4480-93ec-a529d444e538" />
 <img width="1537" height="687" alt="image" src="https://github.com/user-attachments/assets/f17e7f5d-db7d-4271-8cba-b9a278107981" />
@@ -18,7 +18,7 @@
 
 ----
 
-В папке Mushroom Penalty представлены lowpoly модели для одноименной декстопной игры:
+Ниже представлены lowpoly модели для декстопной игры Mushroom Penalty:
 
 <img width="1583" height="933" alt="image" src="https://github.com/user-attachments/assets/bd5d59d8-77ec-4224-9474-e7b3aef6c94e" />
 <img width="1592" height="936" alt="image" src="https://github.com/user-attachments/assets/917cd7d7-d17b-471a-8edc-6f0c60bdbc25" />
@@ -29,7 +29,7 @@
 
 ----
 
-В папке Sculpt находится пример работы со скульптом:
+Ниже представлены примеры работы со скульптом:
 
 <img width="716" height="652" alt="image" src="https://github.com/user-attachments/assets/915f86b0-9f40-4edb-88bd-24aa4f075ede" />
 <img width="716" height="685" alt="image" src="https://github.com/user-attachments/assets/f34707ad-2935-4939-91a9-6f8cf45a1b38" />
@@ -38,5 +38,6 @@
 Пример создания ретопологии:
 
 <img width="1240" height="737" alt="image" src="https://github.com/user-attachments/assets/33f9c976-a6bc-4384-a6c1-843dca38c1f8" />
+
 
 
