@@ -10,7 +10,8 @@
 
 ----
 
-Ниже представлена созданная вручную и собранная с нуля локация для проекта в Unity:
+Ниже представлена созданная вручную и собранная с нуля локация для проекта в Unity.
+Производилась работа по созданию, ретопологии, текстурированию моделей:
 
 <img width="1536" height="677" alt="image" src="https://github.com/user-attachments/assets/906f4235-a970-4480-93ec-a529d444e538" />
 <img width="1537" height="687" alt="image" src="https://github.com/user-attachments/assets/f17e7f5d-db7d-4271-8cba-b9a278107981" />
@@ -38,6 +39,7 @@
 Пример создания ретопологии:
 
 <img width="1240" height="737" alt="image" src="https://github.com/user-attachments/assets/33f9c976-a6bc-4384-a6c1-843dca38c1f8" />
+
 
 
 
